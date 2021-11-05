@@ -33,3 +33,5 @@ could ask about any information.
 regularity of a client in classes and could check their exercise schedules. Also, trainer gets a
 query and opportunity to resolve a query as well. Additional access to a trainer is that he
 could answer his clients and could talk to them through a chat box.
+
+https://aranshu.github.io/Go-Fit/
