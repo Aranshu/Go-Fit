@@ -18,19 +18,19 @@
 
 - Home page
 
-![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/home_page.jpg?raw=true)
+![App Screenshot](https://github.com/Aranshu/Go-Fit/blob/master/Images/Home_Page.PNG?raw=true)
 
 - Home page Customer
 
-![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/login.jpg?raw=true)
+![App Screenshot](https://github.com/Aranshu/Go-Fit/blob/master/Images/Home_Page_Customer.PNG?raw=true)
 
 - Home page Trainer
 
-![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/Register.jpg?raw=true)
+![App Screenshot](https://github.com/Aranshu/Go-Fit/blob/master/Images/Home_Page_Trainer.PNG?raw=true)
 
 - Login page Admin
 
-![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/Register.jpg?raw=true)
+![App Screenshot](https://github.com/Aranshu/Go-Fit/blob/master/Images/Login_Admin.PNG?raw=true)
 
 ## Links
 1. [site](https://aranshu.github.io/Go-Fit/)
