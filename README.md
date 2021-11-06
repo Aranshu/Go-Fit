@@ -33,4 +33,4 @@
 ![App Screenshot](https://github.com/Aranshu/Go-Fit/blob/master/Images/Login_Admin.PNG?raw=true)
 
 ## Links
-1. [site](https://aranshu.github.io/Go-Fit/)
+1. [site](https://aranshu.github.io/Java-Go-Fit/)
